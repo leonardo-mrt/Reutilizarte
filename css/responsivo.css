@@ -127,8 +127,14 @@
 	}
 	/* FIM - CATEGORIA CORINGA */
 
+	/* INÍCIO - POST-MODELO */
+	.texto-post img{
+		margin-left: 7px;
+	}
+	/* FIM - POST-MODELO */
+
 	/* INÍCIO - CONTATO */
-	p{
+	.texto-contato p{
 		text-align: center;
 	}
 	.form{
@@ -140,7 +146,7 @@
 
 
 
-	}
+}
 /* FIM - TABLETS */
 
 
@@ -384,9 +390,7 @@
 		margin-top: -45px;
 	}
 
-	.artigos .sub-interno-cat{
-		text-align: center;
-	}
+	.artigos .sub-interno-cat{text-align: center}
 
 	.artigos .sub-interno-cat:after{
 		margin: 0 auto;
@@ -399,6 +403,28 @@
 	}
 
 	/* FIM - CATEGORIA CORINGA */
+
+	/* INÍCIO - POST-MODELO */
+
+		.chamada{margin-left: -100px}
+
+		.chamada span:last-of-type{display: block}
+		.chamada h2{
+			font-size: 24px;
+			width: 500px;
+		}
+
+		.texto-post p{
+			margin-left: -100px;
+			width: 500px;
+		}
+
+		.texto-post img{
+			margin-left:-100px;
+			width: 500px;
+		}
+
+	/* FIM - POST-MODELO */
 
 	/* INÍCIO - SOBRE */
 

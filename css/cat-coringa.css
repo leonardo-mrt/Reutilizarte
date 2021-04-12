@@ -1,5 +1,16 @@
 /* INTRODUÇÕES */
 
+.interna-post h1{
+  color: #000;
+}
+
+.interna-post h1::after{
+  content: "";
+  height: 2px;
+  width: 100px;
+  background-color: #000;
+}
+
 .interna-cat-embalagens{
   background: url("../img/categoria-1/img-categoria.jpg") no-repeat center;
   background-size: cover;
@@ -39,3 +50,38 @@
   top: -63px;
 }
 
+/* PAGE-POST */
+.chamada h2{
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.chamada span:first-of-type{
+  margin-top: 25px;
+  font-size: 18px;
+}
+
+.chamada span:last-of-type{
+  margin-top: 10px;
+  margin-bottom: 25px;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: .15em;
+}
+
+.texto-post p{
+  display: block;
+  width: 776px ;
+  margin: 26px auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.texto-post img{
+  margin-left: 92px;
+}
+
+.texto-post img:last-of-type{
+  margin-bottom: 26px;
+}
