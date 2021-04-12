@@ -1,0 +1,18 @@
+.interna-sobre{
+  background: url("../img/sobre/sobre-img.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.texto-sobre{
+  margin: 40px auto;
+}
+.texto-sobre p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  line-height: 27px;
+  padding-bottom: 27px;
+}
+
+.equipe-img{
+  margin-bottom: 40px;
+}

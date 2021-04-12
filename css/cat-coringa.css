@@ -1,0 +1,41 @@
+/* INTRODUÇÕES */
+
+.interna-cat-embalagens{
+  background: url("../img/categoria-1/img-categoria.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.interna-cat-garaffapet{
+  background: url("../img/categoria-1/img-categoria.jpg") no-repeat center;
+  background-size: cover;
+}
+
+
+/* FIM - INTRODUÇÕES */
+.destaques{
+  margin-top: 30px;
+}
+
+
+.destaques-dir{
+  margin-left: 5px; /* Veio por padrão -5px como margin 0 */
+}
+.destaques-dir .destaque-03{
+  margin-top: 5px; /* Veio por padrão -5px como margin 0 */
+}
+
+
+.destaques p{
+  position: relative;
+  top: -60px;
+  left: 10px;
+  max-width: 400px;
+  margin-bottom: -40px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.destaques-esq p{
+  top: -63px;
+}
+
