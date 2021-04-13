@@ -1,0 +1,87 @@
+/* INTRODUÇÕES */
+
+.interna-post h1{
+  color: #000;
+}
+
+.interna-post h1::after{
+  content: "";
+  height: 2px;
+  width: 100px;
+  background-color: #000;
+}
+
+.interna-cat-embalagens{
+  background: url("../img/categoria-1/img-categoria.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.interna-cat-garaffapet{
+  background: url("../img/categoria-1/img-categoria.jpg") no-repeat center;
+  background-size: cover;
+}
+
+
+/* FIM - INTRODUÇÕES */
+.destaques{
+  margin-top: 30px;
+}
+
+
+.destaques-dir{
+  margin-left: 5px; /* Veio por padrão -5px como margin 0 */
+}
+.destaques-dir .destaque-03{
+  margin-top: 5px; /* Veio por padrão -5px como margin 0 */
+}
+
+
+.destaques p{
+  position: relative;
+  top: -60px;
+  left: 10px;
+  max-width: 400px;
+  margin-bottom: -40px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.destaques-esq p{
+  top: -63px;
+}
+
+/* PAGE-POST */
+.chamada h2{
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.chamada span:first-of-type{
+  margin-top: 25px;
+  font-size: 18px;
+}
+
+.chamada span:last-of-type{
+  margin-top: 10px;
+  margin-bottom: 25px;
+  font-size: 12px;
+  font-style: italic;
+  letter-spacing: .15em;
+}
+
+.texto-post p{
+  display: block;
+  width: 776px ;
+  margin: 26px auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.texto-post img{
+  margin-left: 92px;
+}
+
+.texto-post img:last-of-type{
+  margin-bottom: 26px;
+}
