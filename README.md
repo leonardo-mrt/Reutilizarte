@@ -82,7 +82,7 @@ cd reutilizarte
 <a href="https://github.com/leonardo-mrt">
  <img src="https://avatars.githubusercontent.com/leonardo-mrt" width="150px">
 </a>
-<sub><a href="https://github.com/leonardo-mrt"><b>Leonardo Martins - Front-end student</b></a></sub>
+<sub align="left"><a href="https://github.com/leonardo-mrt"><b>Leonardo Martins - Front-end student</b></a></sub>
 <p> Desenvolvido por Leonardo Martins 😎👍</p>
 <p> Entre em contato!</p>
 <p align="left">
