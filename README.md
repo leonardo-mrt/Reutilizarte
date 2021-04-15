@@ -81,7 +81,6 @@ cd reutilizarte
 <h2>✍️ Autor</h2>
 <a href="https://github.com/leonardo-mrt"><img src="https://avatars.githubusercontent.com/leonardo-mrt" width="150px"></a>
 <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 <a href="https://github.com/leonardo-mrt"><b>Leonardo Martins - Front-end student</b></a>
 <p> Desenvolvido por Leonardo Martins 😎👍</p>
 <p> Entre em contato!</p>
